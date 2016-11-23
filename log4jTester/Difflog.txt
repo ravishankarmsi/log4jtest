@@ -1,0 +1,15 @@
+DEBUG   2016-11-21 12:42:03,807 [main] PropertiesFileLog4jExample  - this is a debug log message
+INFO    2016-11-21 12:42:03,807 [main] PropertiesFileLog4jExample  - this is a information log message
+WARN    2016-11-21 12:42:03,807 [main] PropertiesFileLog4jExample  - this is a warning log message
+DEBUG   2016-11-21 12:46:05,336 [main] PropertiesFileLog4jExample  - this is a debug log message
+INFO    2016-11-21 12:46:05,336 [main] PropertiesFileLog4jExample  - this is a information log message
+WARN    2016-11-21 12:46:05,336 [main] PropertiesFileLog4jExample  - this is a warning log message
+DEBUG   2016-11-21 12:46:07,898 [main] PropertiesFileLog4jExample  - this is a debug log message
+INFO    2016-11-21 12:46:07,898 [main] PropertiesFileLog4jExample  - this is a information log message
+WARN    2016-11-21 12:46:07,898 [main] PropertiesFileLog4jExample  - this is a warning log message
+DEBUG   2016-11-21 12:46:08,897 [main] PropertiesFileLog4jExample  - this is a debug log message
+INFO    2016-11-21 12:46:08,897 [main] PropertiesFileLog4jExample  - this is a information log message
+WARN    2016-11-21 12:46:08,897 [main] PropertiesFileLog4jExample  - this is a warning log message
+DEBUG   2016-11-21 12:46:10,129 [main] PropertiesFileLog4jExample  - this is a debug log message
+INFO    2016-11-21 12:46:10,129 [main] PropertiesFileLog4jExample  - this is a information log message
+WARN    2016-11-21 12:46:10,129 [main] PropertiesFileLog4jExample  - this is a warning log message
